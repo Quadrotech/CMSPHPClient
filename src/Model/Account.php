@@ -1,4 +1,5 @@
 <?php
+namespace Quadrotech\CMS\Model;
 
 /**
  * An Account

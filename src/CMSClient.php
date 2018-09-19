@@ -1,4 +1,5 @@
 <?php
+namespace Quadrotech\CMS;
 
 require_once 'Model/Subscription.php';
 require_once 'Model/Account.php';
